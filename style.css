@@ -1,0 +1,136 @@
+*{
+	margin:0;
+	padding:0;
+	position:relative;
+}
+.header{
+	height:83px;
+	background-color:#3C5A98;
+	overflow:hidden;
+}
+.one{
+
+	float:left;
+	padding:20px 0 0 250px;
+}
+.hi{
+	background-color:#EFF1F7;
+}
+.two{
+	float:left;
+	overflow:hidden;
+}
+.three{
+	padding:40px 0 0 270px;
+	float:left;
+	overflow:hidden;
+}
+.three p b{
+	font-size:22px;
+	
+}
+.four{
+	padding:30px 0 0 100px;
+	float:left;
+	overflow:hidden;
+}
+.email{
+	float:left;
+	padding:20px 0 0 400px;
+	color:white;
+	
+}
+.b{
+	margin-bottom:50px;
+}
+.pass{
+	float:left;
+	padding:20px 0 0 20px;
+	color:white;
+}
+.pass a{
+	text-decoration:none;
+	color:pink;
+	padding-top:12px;
+}
+.pass a:hover{
+	text-decoration:underline;
+	padding-top:10px;
+}
+.lo{
+	float:left;
+	padding:37px 0 0 20px;
+	
+}
+.lo input{
+		width:50px;
+		background-color:#5c7af2;
+}
+.lo input:hover{
+	background-color:#3B5998;
+	cursor:pointer;
+}
+.create{
+	font-size:40px;
+	float:left;
+}
+.it{
+	font-size:22px;
+	padding-top:20px;
+}
+.pm{
+	float:left;
+	padding:30px 0 0 100px;
+}
+.love{
+	width:200px;
+	height:30px;
+	font-size:20px;
+	border-color:green;
+}
+.love1{
+	float :bottom;
+	width:410px;
+	height:30px;
+	font-size:20px;
+	border-color:green;
+	
+}
+	.x{
+		float:left;
+		padding:0px 0 0 100px;
+	}
+	.s{
+		margin:10px 0 10px 0;
+	}
+	
+	.love2{
+		float:right;
+		overflow:hidden;
+		padding:10px 215px 0 0;
+	}
+	.bi{
+		
+		float:right;
+		padding-right:370px;
+	}
+	.bi b{
+		font-size:25px;
+		color:gray;
+	}
+	.btn{
+		width:180px;
+		height:32px;
+		background-color:#F9B5AB; 
+		color:white;
+		font-size:20px;
+		
+	}
+	.btn:hover{
+		cursor:pointer;
+		background-color:pink;
+	}
+	.mn{
+		float:left;
+		padding:100px 0 0 905px;
+	}
